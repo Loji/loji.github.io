@@ -1,1 +1,0 @@
-## Loji's personal blog
