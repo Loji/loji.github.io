@@ -31,7 +31,7 @@ As for my project, here is roadmap I'll try to stick to:
 3. Saving colors as config 
 4. Ability to split tile and make it possible to add more in that space
 5. Ability to add image as tile content 
-6. Chaning "desktop" background
+6. Changing "desktop" background
 7. Importing colors from existing config values
 
 If you don't know what i3wm is head to [i3wm website](https://i3wm.org/) and 
