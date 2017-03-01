@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      i3wm config generator - project roadmap
-date:       2017-03-01 20:15:00
+date:       2017-03-01 19:15:00
 summary:    Project summary for i3wm config generator - project for DSP2017 competition
-categories: about
+categories: 
 tags:       dsp2017
 ---
 
@@ -33,3 +33,6 @@ As for my project, here is roadmap I'll try to stick to:
 5. Ability to add image as tile content 
 6. Chaning "desktop" background
 7. Importing colors from existing config values
+
+If you don't know what i3wm is head to [i3wm website](https://i3wm.org/) and 
+[/r/unixporn](https://www.reddit.com/r/unixporn/search?q=i3&sort=top&restrict_sr=on&t=all)
