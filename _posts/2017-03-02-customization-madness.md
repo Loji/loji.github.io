@@ -14,7 +14,7 @@ Let me explain. *I really love customization*. Everyone does after they feel com
 working in an environment they are working in. Customization is good and can greatly 
 benefit our work. It can make us feel unique about ourselves. 
 
-You may ask:
+You may ask: 
 
 >Why do you use basic black on white template for your blog? 
 
@@ -25,7 +25,6 @@ You may ask:
 *Customization is a huge time drain*. Personally, I can spend hours and hours tweaking 
 every single tool I'm using. It's really tiring to start working on the 15-minutes task 
 and waste few hours after you find some cool extension that helps you save few minutes
-<<<<<<< HEAD
 of typing. Writing an extensible script for formatting some 50-line CSV document?
 Hook me up, it's not like I have work to do. This blog would suffer the same fate 
 if I'd start tweaking it. It wouldn't even be online since style would need some 
@@ -34,13 +33,6 @@ There is a lot of things that can be done better.
 
 And the worst part is that *act of improving your tool* was much 
 more *entertaining* than doing that repetitive and boring task. Anything that occupies 
-=======
-of typing. Writing an extensible script for formatting some 50-line csv document?
-Hook me up, it's not like I have work to do. 
-
-The worst part is that act of tweaking and improving your tool was much 
-more entertaining than doing that repetitive and boring task. Anything that occupies 
->>>>>>> 494436601efb83f10ff55bd3b2229f5235a78c48
 your mind and allows to do something creative is. 
 
 I fight with this by using tools that have the basic functionality I need for work. 
