@@ -34,5 +34,7 @@ As for my project, here is roadmap I'll try to stick to:
 6. Changing "desktop" background
 7. Importing colors from existing config values
 
+Project source and preview is available on my [github](https://github.com/Loji/i3wm-config-generator).
+
 If you don't know what i3wm is head to [i3wm website](https://i3wm.org/) and 
 [/r/unixporn](https://www.reddit.com/r/unixporn/search?q=i3&sort=top&restrict_sr=on&t=all)
