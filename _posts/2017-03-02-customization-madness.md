@@ -17,13 +17,17 @@ benefit our work. It can make us feel unique about ourselves.
 But it also can be a huge time drain. Personally, I can spend hours and hours tweaking 
 every single tool I'm using. It's really tiring to start working on the 15-minutes task 
 and waste few hours after you find some cool extension that helps you save few minutes
-of typing. And the worst part is that act of tweaking and improving your tool was much 
-more entertaining than doing that repetitive and boring task. 
+of typing. Writing an extensible script for formatting some 50-line csv document?
+Hook me up, it's not like I have work to do. 
+
+The worst part is that act of tweaking and improving your tool was much 
+more entertaining than doing that repetitive and boring task. Anything that occupies 
+your mind and allows to do something creative is. 
 
 I fight with this by using tools that have the basic functionality I need for work. 
 Not IDE, not barebones editors with nice plugin API. If I'm improving something
-at work I do so with timer and very strict rules. So far it works quite well,
-fighting with customization addiction is successful.
+at work I do so with timer, very strict rules and awareness of the plan for the day. 
+So far it works quite well, fighting with customization addiction is successful.
 
 I find my view on customization insanity a bit ironic given I create a tool to 
 help you customize your environment. What do you think about customization, dear 
