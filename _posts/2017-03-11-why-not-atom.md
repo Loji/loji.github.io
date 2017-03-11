@@ -1,13 +1,13 @@
 ---
 layout:     post
 title:      Why not Atom?
-date:       2017-03-11 23:15:00
+date:       2017-03-11 22:15:00
 summary:    Atom is cool kids text editor now. And I don't really like it. 
 categories: about 
 tags:       dsp2017
 ---
 
-Hello there, fellow reader. 
+## Hello there, fellow reader. 
 
 Atom is currently "default" editor when it comes to developing for web or any JS 
 related technology. Node, Electron, React Native, you name it. Facebook officially 
