@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Oh my zsh! It's so good!
-date:       2017-03-21 16:15:00
+date:       2017-03-21 18:04:00
 summary:    How your shell can be better 
 tags:       dsp2017
 ---
