@@ -73,7 +73,7 @@ staring with "gre" with your arrow key.
 
 #### Oh my zsh!
 
-And lastly I have to thank (oh my zsh)[https://github.com/robbyrussell/oh-my-zsh]
+And lastly I have to thank [oh my zsh](https://github.com/robbyrussell/oh-my-zsh)
 for making switch not only painless and fun but also glorious. In the instant I 
 have access to awesome git tools, autocomplete and branch info in my prompt but
 also I have access to many, many themes that are easy to install and modify. 
