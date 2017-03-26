@@ -2,7 +2,7 @@
 layout:     post
 title:      DSP2017 project - first week
 date:       2017-03-14 21:15:00
-summary:    Atom is cool kids text editor now. And I don't really like it. 
+summary:    Summary of first week of work 
 categories: i3wm-config-generator 
 tags:       dsp2017
 ---
