@@ -3,7 +3,7 @@ layout:     post
 title:      DSP2017 project - second, third week
 date:       2017-03-26 14:20:00 +0000
 summary:    A little late for a party with this update post. Luckily I have progres.
-categories: i3wm-config-generator 
+categories: i3wm-config-generator-in-elm 
 tags:       dsp2017
 ---
 

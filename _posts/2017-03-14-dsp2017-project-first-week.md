@@ -3,7 +3,7 @@ layout:     post
 title:      DSP2017 project - first week
 date:       2017-03-14 21:15:00
 summary:    Summary of first week of work 
-categories: i3wm-config-generator 
+categories: i3wm-config-generator-in-elm 
 tags:       dsp2017
 ---
 
