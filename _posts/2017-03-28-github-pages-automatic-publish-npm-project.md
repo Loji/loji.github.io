@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      GitHub pages npm autobuild and autopublish tutorial
-date:       2017-03-26 14:20:00 +0000
+date:       2017-03-28 20:20:00 +0000
 summary:    Very short tutorial that will teach you how to autopublish your node project
 categories: tutorial 
 tags:       dsp2017 npm 
