@@ -1,6 +1,6 @@
 # Pixyll
 
-[pixyll.com](http://www.pixyll.com)
+[pixyll.com](https://www.pixyll.com)
 
 ![Pixyll screenshot](https://cloud.githubusercontent.com/assets/1424573/3847467/134aa236-1e66-11e4-8421-4e8c122118dc.png)
 
@@ -8,14 +8,14 @@ Pixyll is a simple, beautiful theme for Jekyll that emphasizes content rather th
 
 It's pretty minimal, but leverages large type and drastic contrast to make a statement, on all devices.
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
+This Jekyll theme was crafted with <3 by [John Otander](https://johnotander.com)
 ([@4lpine](https://twitter.com/4lpine)).
 
 中文版 <https://github.com/ee0703/pixyll-zh-cn>.
 
 ## Getting Started
 
-If you're completely new to Jekyll, I recommend checking out the documentation at <http://jekyllrb.com> or there's a tutorial by [Smashing Magazine](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/).
+If you're completely new to Jekyll, I recommend checking out the documentation at <https://jekyllrb.com> or there's a tutorial by [Smashing Magazine](https://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/).
 
 ```
 $ git clone git@github.com:johnotander/pixyll.git
@@ -27,7 +27,7 @@ $ bundle install
 #### Verify your Jekyll version
 
 It's important to also check your version of Jekyll since this project uses Native Sass which
-is [only supported by 2.0+](http://jekyllrb.com/news/2014/05/06/jekyll-turns-2-0-0/).
+is [only supported by 2.0+](https://jekyllrb.com/news/2014/05/06/jekyll-turns-2-0-0/).
 
 ### Fork, then clone
 
@@ -45,7 +45,7 @@ email: your_email@example.com
 author: John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl: ""
-url: "http://pixyll.com"
+url: "https://pixyll.com"
 
 # Build settings
 markdown: kramdown
@@ -80,7 +80,7 @@ email: your_email@example.com
 author: John Otander
 description: "Repo description"
 baseurl: "/repo-name"
-url: "http://github-username.github.io"
+url: "https://github-username.github.io"
 
 # Build settings
 markdown: kramdown
@@ -111,9 +111,9 @@ A relevant Jekyll Github Issue: <https://github.com/jekyll/jekyll/issues/332>
 
 ### Contact Form
 
-The contact form uses <http://formspree.io>. It will require you to fill the form out and submit it once, before going live, to confirm your email.
+The contact form uses <https://formspree.io>. It will require you to fill the form out and submit it once, before going live, to confirm your email.
 
-More setup instructions and advanced options can be found at [http://formspree.io](http://formspree.io/)
+More setup instructions and advanced options can be found at [https://formspree.io](https://formspree.io/)
 
 ### Disqus
 
@@ -125,7 +125,7 @@ All variables can be found in the `_sass/_variables.scss` file, toggle these as 
 
 ### Page Animation
 
-If you would like to add a [fade-in-down effect](http://daneden.github.io/animate.css/), you can add `animated: true` to your `_config.yml`.
+If you would like to add a [fade-in-down effect](https://daneden.github.io/animate.css/), you can add `animated: true` to your `_config.yml`.
 
 ### AnchorJS
 
@@ -138,11 +138,11 @@ If you would like to add a [fade-in-down effect](http://daneden.github.io/animat
 </script>
 ```
 
-See [documentation](http://bryanbraun.github.io/anchorjs/#basic-usage) for more options.
+See [documentation](https://bryanbraun.github.io/anchorjs/#basic-usage) for more options.
 
 ### Put in a Pixyll Plug
 
-If you want to give credit to the Pixyll theme with a link to <http://pixyll.com> or my personal website <http://johnotander.com> somewhere, that'd be awesome. No worries if you don't.
+If you want to give credit to the Pixyll theme with a link to <https://pixyll.com> or my personal website <https://johnotander.com> somewhere, that'd be awesome. No worries if you don't.
 
 ### Web analytics and search engines
 
@@ -168,7 +168,7 @@ meta_robots: nofollow
 meta_robots: noindex,follow
 ```
 
-In order to get more information about your website's status in search engines, you can register it in [Google Search Console](https://www.google.com/webmasters/tools/home) and/or [Bing Webmaster Tools](http://www.bing.com/toolbox/webmaster). Both these tools will ask you to authorize your website with them and there are couple of ways to do that. Pixyll supports verification via meta tags - just fill in values for `google_verification` and/or `bing_verification` in `_config.yml`, the verification strings and meta tags will then be added automatically.
+In order to get more information about your website's status in search engines, you can register it in [Google Search Console](https://www.google.com/webmasters/tools/home) and/or [Bing Webmaster Tools](https://www.bing.com/toolbox/webmaster). Both these tools will ask you to authorize your website with them and there are couple of ways to do that. Pixyll supports verification via meta tags - just fill in values for `google_verification` and/or `bing_verification` in `_config.yml`, the verification strings and meta tags will then be added automatically.
 
 If search engine optimization is your thing, you can also set up `meta_description` values for each page/post. By default Pixyll uses `summary` to populate the `<meta name="description" content="...">` tag and falls back to `description` from `_config.yml` if `summary` is not present in page/post's front matter. The `summary` is also used for generating Open Graph tags. Why would you want to use a dedicated variable for meta description? Because character limit to properly display this description in search results (as a snippet) is way smaller than in Open Graph. It is recommended to keep it at 155-160 characters, for more in-depth info read [this article](https://moz.com/blog/i-cant-drive-155-meta-descriptions-in-2015).
 
@@ -200,11 +200,11 @@ There may be merge conflicts, so be sure to fix the files that git lists if they
 
 ## Thanks to the following
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
-* [Animate.css](http://daneden.github.io/animate.css/)
+* [BASSCSS](https://basscss.com)
+* [Jekyll](https://jekyllrb.com)
+* [Refills](https://refills.bourbon.io/)
+* [Solarized](https://ethanschoonover.com/solarized)
+* [Animate.css](https://daneden.github.io/animate.css/)
 
 ## Contributing
 

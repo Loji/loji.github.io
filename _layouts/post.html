@@ -20,7 +20,7 @@ layout: default
     {{ minutes }} {{ site.text.post.minute_read }}
   {% endif %}
   </span>
-  {% if page.categories != empty %} 
+  {% if page.categories != empty %}
     <span class="post-meta small">
       Category: {% for category in page.categories limit:1 %}{{ category }}{% endfor %}
     </span>
@@ -40,13 +40,13 @@ layout: default
 </article>
 <hr/>
 <div class="center">
-  <div 
-    class="fb-page" 
-    data-href="https://www.facebook.com/lojidev/" 
-    data-width="500" 
-    data-small-header="false" 
-    data-adapt-container-width="true" 
-    data-hide-cover="false" 
+  <div
+    class="fb-page"
+    data-href="https://www.facebook.com/lojidev/"
+    data-width="500"
+    data-small-header="false"
+    data-adapt-container-width="true"
+    data-hide-cover="false"
     data-show-facepile="false"
   ></div>
 </div>
@@ -73,7 +73,7 @@ layout: default
       (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
   </script>
-  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 {% endif %}
 
 {% if site.facebook_comments %}
