@@ -22,3 +22,12 @@ sup {
   vertical-align: middle;
   top: -0.9ex;
 }
+
+.post-content {
+  text-align: justify;
+  text-justify: distribute;
+
+  p {
+    text-indent: 25px;
+  }
+}
