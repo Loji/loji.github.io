@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      How I solved big problem with no webworkers
+title:      How I solved big data problem with no webworkers
 date:       2018-02-12 19:10:00 +0000
 summary:    Event loop and recursive iteration over large set of data. How to handle maximum call stack size exceeded.
 tags:       programming dsp dsp2017 javascript
