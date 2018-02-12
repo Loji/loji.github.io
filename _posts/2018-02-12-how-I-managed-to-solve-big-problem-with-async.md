@@ -218,6 +218,6 @@ function callAsync(callback) {
 
 `queryNodes` is still called by `setTimeout` because we don't want to entirely block the browser. We want it to display nice loading overlay and animate it. It will happen in spare time from `setTimeout(queryNodes)` 4ms default wait time, after 1200 `queryNode` executes.
 
-### Wait after callAsync inside setTimeout loop
+### Summary
 
-I found this case that it meant better memory management. My case had very complicated logic and used a lot of memory, doing it this way allowed me to use less memory than without it. Benchmarked, tested and polished as much as you can in few days.
+I found that for this case calling inner function with microtask query meant better memory management. My case had very complicated logic and used a lot of memory, doing it this way allowed me to use less memory than without it. Benchmarked, tested and polished as much as you can in few days.
